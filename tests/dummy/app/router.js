@@ -13,6 +13,7 @@ Router.map(function() {
   this.route('smooth-line-graph');
   this.route('text-sample');
   this.route('bar-chart');
+  this.route('pie-chart');
   this.route('grouped-bars');
   this.route('invert');
   this.route('nytimes-strikeouts');
